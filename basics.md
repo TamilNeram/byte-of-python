@@ -1,10 +1,10 @@
 # Basics
 
-Just printing `hello world` is not enough, is it? You want to do more than that - you want to take some input, manipulate it and get something out of it. We can achieve this in Python using constants and variables, and we'll learn some other concepts as well in this chapter.
+`ஹலோ வேர்ல்ட்` என்று அச்சிட்டால் மட்டும் போதாது, இல்லையா? நீங்கள் அதை விட அதிகமாக செய்ய விரும்புகிறீர்கள் - நீங்கள் சில உள்ளீடுகளை எடுத்து, அதைக் கையாளவும் மற்றும் அதிலிருந்து ஏதாவது பெறவும் விரும்புகிறீர்கள். மாறிலிகள் மற்றும் மாறிகளைப் பயன்படுத்தி பைத்தானில் இதை அடையலாம், மேலும் இந்த அத்தியாயத்தில் வேறு சில கருத்துகளையும் கற்றுக்கொள்வோம்.
 
 ## Comments
 
-_Comments_ are any text to the right of the `#` symbol and is mainly useful as notes for the reader of the program.
+_கருத்துகள்_  என்பது `#` சின்னத்தின் வலதுபுறத்தில் உள்ள எந்த உரையும் மற்றும் நிரலின் வாசகருக்கு முக்கியமாக குறிப்புகளாக பயனுள்ளதாக இருக்கும்.
 
 For example:
 
