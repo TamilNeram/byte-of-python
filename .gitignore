@@ -14,3 +14,4 @@ package.json
 public
 venv
 .vscode
+.DS_Store
